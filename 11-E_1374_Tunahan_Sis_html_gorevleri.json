@@ -1,0 +1,90 @@
+{
+  "kind": "web-html-gorev-atolyesi",
+  "version": 1,
+  "student": {
+    "classroom": "11-E",
+    "number": "1374",
+    "name": "Tunahan Sis"
+  },
+  "createdAt": "2026-09-24T08:05:27.454Z",
+  "answers": [
+    {
+      "task": 1,
+      "title": "Akıllı sera haberi",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<h1> Öğrencilerin Tasarladığı Akıllı Sera İlk Hasadını Verdi</h1>\n<h3>Okulun robotik kulübü, bitkilerin bakımını kolaylaştıran bir sistem geliştirdi.</h3>\n<p>Meslek lisesi öğrencileri, okul bahçesinde kurdukları akıllı serada yetiştirdikleri ilk marulları topladı. Proje, robotik ve kodlama derslerinde öğrenilen bilgileri günlük yaşamla buluşturdu.</p>\n<p>Öğrencilerin hazırladığı sistem, toprağın nemini düzenli olarak ölçüyor. Toprak kuruduğunda su pompası çalışıyor ve bitkiler ihtiyaç duyduğu kadar sulanıyor.</p>\n<p>Kulüp üyeleri, gelecek ay seraya sıcaklık ölçümü de eklemeyi planlıyor. Elde edilen ürünler ise okul yemekhanesinde kullanılacak.</p>\n\n\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 2,
+      "title": "Okul duyurusu",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<h1> Okulumuzda Bilim Şenliği Başlıyor </h1>\n<h3> Öğrenciler projelerini cuma günü ziyaretçilere tanıtacak.</h3>\n<p>  Bilim şenliği, cuma günü saat 10.00’da okulun spor salonunda başlayacak. Etkinlik bütün öğrencilerin ve velilerin katılımına açık olacak.</p>\n<p> Şenlikte robotik, yazılım ve elektronik alanlarında hazırlanan projeler sergilenecek.</p>\n\n\n\n\n\n\n\n\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 3,
+      "title": "Haberi bölümlere ayır",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<h1> Öğrenciler Geri Dönüşüm İçin Uygulama Geliştirdi</h1>\n<h3> Proje nasıl çalışıyor?</h3>\n<p>  Uygulama, öğrencilerin geri dönüşüm kutularını harita üzerinde bulmasını sağlıyor.</p>\n<h3> Sıradaki hedef ne?</h3>\n<p>  Proje ekibi, uygulamaya toplanan atık miktarını gösteren bir bölüm eklemeyi planlıyor.</p>\n\n\n\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 4,
+      "title": "Hatalı haberi düzelt",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<h1>Okul Kütüphanesine Yeni Kitaplar Geldi</h1>\n<h3>Öğrenciler kitap önerilerini çevrim içi formdan iletebilecek.</h3>\n<p>Kütüphaneye bu ay 120 yeni kitap eklendi.</p>\n<p>Öğrencilerin önerdiği kitaplar da yeni alımlar planlanırken değerlendirilecek.</p>\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 5,
+      "title": "Kendi okul haberin",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<h1> Okulumuzda Masa Tenisi Turnuvası Olacak. Hepiniz Davetlisiniz </h1>\n<h3> Öğrenciler ile masa tenisi oynanacak. Gelin </h3>\n<p> Masa Tenisi Çarşamba günü Öğlen başlıyacak. Herkes ile oynanır.</p>\n<p> Beraber Turnuvaya Hazırlanacağız. Sonra dinleniriz. </p>\n\n\n\n\n\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 6,
+      "title": "Habere fotoğraf ekle",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<h1>Öğrencilerin Tasarladığı Akıllı Sera İlk Hasadını Verdi</h1>\n<h3>Okulun robotik kulübü, bitkilerin bakımını kolaylaştıran bir sistem geliştirdi.</h3>\n\n<img src=\"sera.jpg\" width=\"300\" alt=\"Serada yetişen bitkiler\">\n\n\n<p>Meslek lisesi öğrencileri, okul bahçesinde kurdukları akıllı serada yetiştirdikleri ilk marulları topladı. Proje, robotik ve kodlama derslerinde öğrenilen bilgileri günlük yaşamla buluşturdu.</p>\n<p>Öğrencilerin hazırladığı sistem, toprağın nemini düzenli olarak ölçüyor. Toprak kuruduğunda su pompası çalışıyor ve bitkiler ihtiyaç duyduğu kadar sulanıyor.</p>\n<p>Kulüp üyeleri, gelecek ay seraya sıcaklık ölçümü de eklemeyi planlıyor. Elde edilen ürünler ise okul yemekhanesinde kullanılacak.</p>\n<\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 7,
+      "title": "Görsel taşındı",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<h1>Öğrencilerin Tasarladığı Akıllı Sera İlk Hasadını Verdi</h1>\n<h3>Okulun robotik kulübü, bitkilerin bakımını kolaylaştıran bir sistem geliştirdi.</h3>\n<img src=\"gorseller/sera.jpg\" alt=\"Serada yetişen bitkiler\" width=\"300\">\n<p>Meslek lisesi öğrencileri, okul bahçesinde kurdukları akıllı serada yetiştirdikleri ilk marulları topladı. Proje, robotik ve kodlama derslerinde öğrenilen bilgileri günlük yaşamla buluşturdu.</p>\n<p>Öğrencilerin hazırladığı sistem, toprağın nemini düzenli olarak ölçüyor. Toprak kuruduğunda su pompası çalışıyor ve bitkiler ihtiyaç duyduğu kadar sulanıyor.</p>\n<p>Kulüp üyeleri, gelecek ay seraya sıcaklık ölçümü de eklemeyi planlıyor. Elde edilen ürünler ise okul yemekhanesinde kullanılacak.</p>\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 8,
+      "title": "İnternetten görsel",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<h3> Bu bir görsel </h3>\n<img src=\"https://mdn.github.io/shared-assets/images/examples/fx-nightly-512.png\"\nalt=\"manzara keyfi\"\nwidth=\"250\">\n<p> Bu görsel internetten alınmıs</p>\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 9,
+      "title": "İki farklı genişlik",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<h3>Küçük görsel</h3>\n<img src=\"gorseller/sera.jpg\"\nwidth=\"150\"\nalt=\"küçük sera görselidir\">\n<h3> Büyük görsel </h3>\n<img src=\"gorseller/sera.jpg\"\nwidth=\"350\"\nalt=\"Büyük sera görselidir\">\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 10,
+      "title": "Bozuk görseli onar",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<h1>Okul Bahçesindeki Yeni Alan</h1>\n<img src=\"gorseller/okul-bahcesi.jpg\" alt=\"Okul Bahçesi\" width=\"350\">\n<p>Öğrenciler yeni oturma alanını kullanmaya başladı.</p>\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 11,
+      "title": "Bir duyuruyu grupla",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<div>\n<h3>Satranç Turnuvası</h3>\n<p>Turnuva perşembe günü okul kütüphanesinde başlayacak.</p>\n</div>\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 12,
+      "title": "İki duyuru, iki grup",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<h1>Bu Haftanın Etkinlikleri</h1>\n<div>\n  <div>\n    <h3>Kodlama Atölyesi</h3>\n    <p>Çarşamba günü bilişim laboratuvarında yapılacak.</p>\n  </div>\n  <div>\n    <h3>Kitap Söyleşisi</h3>\n    <p>Cuma günü okul kütüphanesinde yapılacak.</p>\n  </div>\n</div>\n\n</body>\n</html>",
+      "completed": true
+    },
+    {
+      "task": 13,
+      "title": "Gruptan kaçan paragraf",
+      "code": "<!doctype html>\n<html lang=\"tr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Görevi</title>\n</head>\n<body>\n<div>\n  <h3>Fotoğrafçılık Kulübü Toplantısı</h3>\n<p>Toplantı pazartesi günü saat 14.00'te yapılacak.</p>\n</div>\n\n</body>\n</html>",
+      "completed": true
+    }
+  ]
+}
